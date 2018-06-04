@@ -1,6 +1,11 @@
-# 记录一些前端学习笔记
+* [这个库用来做什么](#这个库用来干什么)
+* [前端学习笔记](#前端学习笔记)
 
-## [html相关记录笔记](https://github.com/yangxiaopingios/study_web/issues/1)
+## 这个库用来干什么
+- 记录一些学习笔记
+
+## 前端学习笔记
+  - [关于html](https://github.com/yangxiaopingios/study_web/issues/1)
 
 
 

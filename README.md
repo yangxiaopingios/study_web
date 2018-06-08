@@ -14,6 +14,7 @@
     - [webpack教程4 搭建开发环境](https://github.com/yangxiaopingios/study_web/issues/6)
     - [webpack教程5 搭建生产环境](https://github.com/yangxiaopingios/study_web/issues/7)
     - [webpack教程6 代码拆分](https://github.com/yangxiaopingios/study_web/issues/8)
+    - [webpack教程7  webpack开发和发布npm包](https://github.com/yangxiaopingios/study_web/issues/9)
     
 
 

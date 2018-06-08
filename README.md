@@ -12,7 +12,9 @@
     - [webpack教程2 webpack管理像图像和字体等静态资源](https://github.com/yangxiaopingios/study_web/issues/4)
     - [webpack教程3 webpack输出管理](https://github.com/yangxiaopingios/study_web/issues/5)
     - [webpack教程4 搭建开发环境](https://github.com/yangxiaopingios/study_web/issues/6)
-    - [webpack教程4 搭建生产环境](https://github.com/yangxiaopingios/study_web/issues/7)
+    - [webpack教程5 搭建生产环境](https://github.com/yangxiaopingios/study_web/issues/7)
+    - [webpack 教程6 代码拆分](https://github.com/yangxiaopingios/study_web/issues/8)
+    
 
 
 
